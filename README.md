@@ -128,8 +128,6 @@ A password generator built with HTML, CSS, and JavaScript.
 
 ---
 
-## 🔥 Contribution Streak
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeshkhatiwada7&theme=dark" />
 
 ## Contribution Snake
