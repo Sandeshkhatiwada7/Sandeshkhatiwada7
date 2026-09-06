@@ -128,8 +128,7 @@ A password generator built with HTML, CSS, and JavaScript.
 
 ---
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeshkhatiwada7&theme=dark" />
-
+<img align="center" src="https://streak-stats.demolab.com?user=Sandeshkhatiwada7&theme=dark&cache_seconds=3600" />
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Sandeshkhatiwada7/Sandeshkhatiwada7/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
